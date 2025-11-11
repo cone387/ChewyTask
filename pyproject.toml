@@ -1,0 +1,21 @@
+[project]
+name = "chewy-task"
+version = "0.1.0"
+description = "Celery 的轻量替代方案 —— 保留 Celery 的直观语法，剥离分布式复杂性，适合单机环境快速落地"
+readme = "README.md"
+requires-python = ">=3.8"
+dependencies = []
+authors = [
+    {name = "ChewyTask Contributors"}
+]
+keywords = ["task", "scheduler", "celery", "async", "background-jobs"]
+classifiers = [
+    "Development Status :: 3 - Alpha",
+    "Intended Audience :: Developers",
+    "Programming Language :: Python :: 3",
+    "Programming Language :: Python :: 3.8",
+    "Programming Language :: Python :: 3.9",
+    "Programming Language :: Python :: 3.10",
+    "Programming Language :: Python :: 3.11",
+    "Programming Language :: Python :: 3.12",
+]
